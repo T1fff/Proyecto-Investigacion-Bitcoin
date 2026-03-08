@@ -1,0 +1,13 @@
+docs/_build/
+_build/
+.myst-cache/
+
+.ipynb_checkpoints/
+
+node_modules/
+
+.DS_Store
+.vscode/
+EOF
+# MyST build outputs
+_build
