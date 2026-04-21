@@ -11,3 +11,5 @@ node_modules/
 EOF
 # MyST build outputs
 _build
+
+*.csv
