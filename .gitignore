@@ -13,3 +13,5 @@ EOF
 _build
 
 *.csv
+
+catboost_info/
